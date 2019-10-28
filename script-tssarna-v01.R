@@ -1,5 +1,6 @@
 # rvencio, fela, pikachu, ema
 
+#Ler arquivo
 D = read.delim("minus_mapped_chr_R1.sam", skip=5, header=FALSE)
 tss = read.delim("tss-1e-10_2_10.txt")
 
